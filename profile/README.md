@@ -25,7 +25,12 @@ Cada um destes pilares define o nosso DNA como empresa.
 - Simplicidade: transformar a complexidade do agronegócio em estratégias e ações simples, através de uma comunicação clara e objetiva, gerando soluções eficazes para o sucesso da Agro Amazônia e de nossos colaboradores, parceiros e clientes.
 - Segurança: promover e manter um ambiente de trabalho seguro, protegendo, assim, as pessoas, seus dados, o patrimônio e o meio ambiente.
 
+## Departamento de DX e Inovação
+
+O Departamento de DX (Digital Transformation) e Inovação é a força por trás da transformação digital na Agro Amazônia. Nosso objetivo é integrar novas tecnologias e metodologias inovadoras para otimizar os processos agrícolas e promover a sustentabilidade. 
+
 ## Contato
 
+- **Email:** dxinovacao@agroamazonia.com
 - **LinkedIn:** [Agro Amazônia](https://www.linkedin.com/company/agroamazonia)
 - **Website:** [www.agroamazonia.com](https://www.agroamazonia.com)
